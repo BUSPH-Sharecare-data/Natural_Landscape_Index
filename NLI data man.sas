@@ -1,19 +1,5 @@
 /****************************************************************************************
 * PROJECT       : 	NatureIndex_Nature
-* SPONSOR/PI    : 	KIM, Lane, Kevin 
-* PROGRAM NAME  : 	AnalyticData.sas
-* DESCRIPTION   : 	Prepare Analytic Data   
-* PROGRAMMER    : 	Pengsheng Ni
-* DATE WRITTEN  : 	
-*                   11/20/2024
-*                   
-*****************************************************************************************
-* INPUT FILES   : 	    Kevin
-						11.18.2024 email
-						12.16.2924 email
-* OUTPUT FILES  : 	
-*****************************************************************************************
-* DESCRIPTION   : 	original from Y:\Brochu\11202024\DataOrg.sas
 *****************************************************************************************/
 
 
